@@ -1,4 +1,4 @@
-# sentimet_analysis
+# WEB SCRAPPING - TWITTET SENTIMENT ANALYSIS ON INDIA'S TOP ONLINE RETAILERS (2019 TO 2022)
  
 
 ## Data Collection
@@ -46,9 +46,9 @@ It is essential to preprocess the data before feeding to the model necessary dat
   
   |    |Precission | Recall  | F1 score   | support   | 
 | ------------- | ------------- |------------- |------------- |------------- |
-| 0   | 0.87  | 0.75  | 0.80  | 1078  |
-| 1  | 0.88 | 094  | 0.91  | 2042|
-| Accuracy  |   |   |  0.87 | 3120  |
-| macro avg   |0.87 | 0.84  |   0.85 | 3120   | 
-| weighted avg   |0.87 | 0.87  |   0.87 | 3120   |
+| 0   | 0.91  | 0.84  | 0.87  | 1720  |
+| 1  | 0.93 | 096  | 0.94  | 3617|
+| Accuracy  |   |   |  0.92 | 5337  |
+| macro avg   |0.92 | 0.90  |   0.91 | 5337   | 
+| weighted avg   |0.92 | 092  |   0.92 | 5337   |
 
