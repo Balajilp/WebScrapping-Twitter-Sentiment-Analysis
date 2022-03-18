@@ -1,5 +1,6 @@
 # WEB SCRAPPING - TWITTET SENTIMENT ANALYSIS ON INDIA'S TOP ONLINE RETAILERS (2019 TO 2022)
  
+![Screenshot (124)](https://user-images.githubusercontent.com/88379464/158972315-ef8d31d9-e21b-480e-b872-940b709b9640.png)
 
 ## Data Collection
 
