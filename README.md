@@ -53,4 +53,4 @@ It is essential to preprocess the data before feeding to the model necessary dat
 | macro avg   |0.92 | 0.90  |   0.91 | 5337   | 
 | weighted avg   |0.92 | 092  |   0.92 | 5337   |
 
-## I have added a power point representation (PPT). For quick overview and visuazlization and solutions please go through it.
+## I have added a power point presentation (PPT). For quick overview and visualization and solutions please go through it.
